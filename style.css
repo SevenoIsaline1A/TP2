@@ -63,6 +63,7 @@
 	opacity: 0.83;
     background-color: azure;
     border-color: aquamarine;
+    
 }
 
 #edito h2
@@ -70,7 +71,8 @@
 	color: #000;
 	font-size: 160%;
 	margin: 0 0 .5em;
-    color: cadetblue;
+    color: gray;
+    text-align: center;
 }
 
 #news
@@ -90,10 +92,12 @@
 	background-clip: padding-box;
 	opacity: 0.83;
     background-color: azure;
+    text-align: center;
 }
 #news h2 
 { 
-    color: darkblue;
+    color: dimgray;
+    text-align: center;
 }
 
 #footer
